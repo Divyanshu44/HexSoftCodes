@@ -1,0 +1,87 @@
+body {
+  font-family: sans-serif;
+  background: #f4f4f4;
+  margin: 20px;
+}
+
+header {
+  text-align: center;
+  background: #4caf50;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.profile-img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 3px solid white;
+  margin-bottom: 10px;
+}
+
+nav a {
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  background: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #4caf50;
+}
+
+.projects-list {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1;
+  min-width: 200px;
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#skills ul {
+  display: inline;
+  list-style: none;
+  padding: 0;
+  display: grid;
+  gap: 15px;
+}
+
+#skills li {
+  background: #e8f5e9;
+  padding: 12px;
+  text-align: center;
+  border-radius: 8px;
+  font-weight: bold;
+  color: #2e7d32;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s;
+}
+
+#skills li:hover {
+  background: #c8e6c9;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: #4caf50;
+  color: white;
+  border-radius: 10px;
+}
