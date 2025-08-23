@@ -9,6 +9,7 @@ Project :- 1 -> (Personal Portfolio)
 -> Use CSS for styling and layout.
 
 
+
 Project :- 2 -> (To-Do List App)
 
 -> Create a simple to-do list app using HTML, CSS, and JavaScript.
@@ -16,6 +17,7 @@ Project :- 2 -> (To-Do List App)
 -> Allow users to add, remove, and mark tasks as completed.
 
 -> Store data locally using browser storage.
+
 
 
 Project :- 3 -> (Resume Website Project)
