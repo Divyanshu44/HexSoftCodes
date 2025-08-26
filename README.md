@@ -1,5 +1,3 @@
-Task - 1
-
 Project :- 1 -> (Personal Portfolio)
 
 -> Build a personal Portfolio using HTML.
