@@ -1,2 +1,2 @@
 # HexSoftCodes
-All my internship projects are here.
+All my frontend pages are here.
